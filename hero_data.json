@@ -1,0 +1,40 @@
+{
+    "melanie": {
+        "name": "Melanie",
+        "hp": 4560,
+        "hp regen": 17.8,
+        "mp": 560,
+        "mp regen": 9,
+        "physical attack": 140,
+        "magic attack": 0,
+        "physical defense": 28,
+        "magic defense": 25,
+        "physical penetration": 4,
+        "magic penetration": 3,
+        "speed": 1,
+        "accuracy": 0.91,
+        "evasion": 0.42,
+        "critical chance": 0,
+        "critical damage": 1.4,
+        "Skill Set": ["Basic Attack", "Master of Camouflage", "Tactical Grenade", "Ultimate Snipe"]
+    },
+    "rovia": {
+        "name": "Rovia",
+        "hp": 2280,
+        "hp regen": 7.2,
+        "mp": 1,
+        "mp regen": 1,
+        "physical attack": 140,
+        "magic attack": 0,
+        "physical defense": 14,
+        "magic defense": 15,
+        "physical penetration": 1,
+        "magic penetration": 3,
+        "speed": 1,
+        "accuracy": 1,
+        "evasion": 1,
+        "critical chance": 0,
+        "critical damage": 1.4,
+        "Skill Set": ["Basic Attack", "Echo Chambers", "Killer Kiss", "Silent Whisper"]
+    }
+}
